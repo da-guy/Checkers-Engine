@@ -1,0 +1,114 @@
+import random
+import time
+
+
+a1=True
+b1=False
+c1=True
+d1=False
+e1=True
+f1=False
+g1=True
+h1=False
+a2=False
+b2=True
+c2=False
+d2=True
+e2=False
+f2=True
+g2=False
+h2=True
+a3=True
+b3=False
+c3=True
+d3=False
+e3=True
+f3=False
+g3=True
+h3=False
+a4=False
+b4=False
+c4=False
+d4=False
+e4=False
+f4=False
+g4=False
+h4=False
+a5=False
+b5=False
+c5=False
+d5=False
+e5=False
+f5=False
+g5=False
+h5=False
+a6=True
+b6=False
+c6=True
+d6=False
+e6=True
+f6=False
+g6=True
+h6=False
+a7=False
+b7=True
+c7=False
+d7=True
+e7=False
+f7=True
+g7=False
+h7=True
+a8=True
+b8=False
+c8=True
+d8=False
+e8=True
+f8=False
+g8=True
+h8=False
+
+def piecetester():
+    piecetest = input("Piece Pick")
+    if piecetest[0].lower() == a:
+        piecetesta = "x"
+        piecetestb = "b"
+    if piecetest[0].lower() == b:
+        piecetesta = "a"
+        piecetestb = "c"
+    if piecetest[0].lower() == c:
+        piecetesta = "b"
+        piecetestb = "d"
+    if piecetest[0].lower() == d:
+        piecetesta = "c"
+        piecetestb = "e"
+    if piecetest[0].lower() == e:
+        piecetesta = "d"
+        piecetestb = "f"
+    if piecetest[0].lower() == f:
+        piecetesta = "e"
+        piecetestb = "g"
+    if piecetest[0].lower() == g:
+        piecetesta = "f"
+        piecetestb = "h"
+    if piecetest[0].lower() == h:
+        piecetesta = "h"
+        piecetestb = "x"
+    piecetestc1 = piecetest[1]
+    piecetest1 + 1 = piecetestc
+    
+    print piecetesta:piecetestc,piecetestb:piecetestc
+    
+
+    
+
+
+        
+        
+    
+    
+        
+        
+    
+    
+
+    
