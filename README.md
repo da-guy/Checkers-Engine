@@ -1,2 +1,3 @@
 # Checkers-Engine
-A checkers engine
+A checkers engine. Im new to GitHub, please forgive me.
+
